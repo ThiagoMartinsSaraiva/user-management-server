@@ -21,7 +21,7 @@ To run this Project, you need to use **Node.js** 20 and **Yarn** **Docker**
 
 ### Clone the Project
 ```
-git clone https://github.com/ThiagoMartinsSaraiva/weather-app
+git clone https://github.com/ThiagoMartinsSaraiva/user-management-server
 ```
 
 ### Installing the Dependencies
