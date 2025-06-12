@@ -17,7 +17,7 @@
 - Prisma
 
 ## Running the project 
-To run this Project, you need to use **Node.js** 20 and **Yarn** **Docker**
+To run this Project, you need to use **Node.js** 20, **Yarn** and **Docker**
 
 ### Clone the Project
 ```
